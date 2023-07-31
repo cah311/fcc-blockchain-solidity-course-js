@@ -1,0 +1,6 @@
+[submodule "ethers-simple-storage-fcc"]
+	path = ethers-simple-storage-fcc
+	url = https://github.com/cah311/ethers-simple-storage-fcc.git
+[submodule "hardhat-simple-storage-fcc"]
+	path = hardhat-simple-storage-fcc
+	url = https://github.com/cah311/hardhat-simple-storage-fcc.git
