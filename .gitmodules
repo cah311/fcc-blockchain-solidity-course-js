@@ -4,3 +4,6 @@
 [submodule "hardhat-simple-storage-fcc"]
 	path = hardhat-simple-storage-fcc
 	url = https://github.com/cah311/hardhat-simple-storage-fcc.git
+[submodule "hardhat-fund-me-fcc"]
+	path = hardhat-fund-me-fcc
+	url = https://github.com/cah311/hardhat-fund-me-fcc.git
